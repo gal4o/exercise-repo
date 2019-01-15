@@ -1,2 +1,3 @@
-# exercise-repo
-Repo made for exercise
+ProgrammingFundamentals2018
+console applications
+C#, Visual Studio
